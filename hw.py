@@ -1,3 +1,5 @@
+# По для тренировки.
+
 import tkinter as tk
 import os
 
